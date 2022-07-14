@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(61, 85, 223);
+    padding-left: 20%;
+}
+
+h2{
+    color:#0c161d;
+    text-align: center;
+}
+
+p{
+    color: #42f0d6;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.header{
+    background-color: #002366;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #59697e;
+}
+
+a{
+    color:rgb(61, 85, 223);
+    font-size: 18px;
+    padding-right: 20px;
+
+
+}
